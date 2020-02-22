@@ -1,3 +1,11 @@
+# Hello! 
+
+This is personal fork of https://github.com/pbarbiero/enhanced-electron-react-boilerplate
+Thank you pbarbiero for the awesome easy boilerplate. 
+This version has some updated dependences, and a different folder structure. 
+
+
+# Original ReadMe:
 # Modern and Minimal Electron + React Starter Kit
 _Electron, React, Webpack -- Modern and up-to-date, with a handful of quality of life features included_
 
